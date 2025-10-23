@@ -1,64 +1,219 @@
-# 🐍 py-learn
+# py-learn
 
-A personal learning repository documenting my journey in mastering Python and its core data ecosystem — **Pandas**, **NumPy**, **SciPy**, **Matplotlib**, and more.
-
----
-
-## 📘 Contents
-- **Python Basics** → syntax, loops, functions, data types
-- **NumPy** → arrays, broadcasting, linear algebra
-- **Pandas** → data wrangling, merging, time series
-- **Matplotlib** → data visualization techniques
-- **SciPy** → statistics, optimization, and signal processing
-- **Others** → regex, file handling, and practical scripts
+**py-learn** is a structured personal repository for learning Python and its ecosystem. It is designed to **track progress, practice concepts, and document skills** from Python basics to applied projects, data analysis, visualization, and introductory machine learning.
 
 ---
 
-## 🎯 Objective
-This repository serves as a structured space to:
-- Strengthen Python fundamentals  
-- Explore data manipulation and visualization  
-- Practice concepts used in data analytics and ML pipelines  
+## 🧭 Purpose
+
+- Serve as a **personal learning journal** for Python.  
+- Provide **organized, modular, and reusable code** for reference.  
+- Demonstrate **practical Python skills** for portfolios or project work.  
+- Enable experimentation with **data analysis, visualization, automation, and mini-projects**.  
 
 ---
 
-## 🧠 Skills Covered
-| Area | Tools / Libraries |
-|------|-------------------|
-| Programming | Python |
-| Data Analysis | Pandas, NumPy |
-| Statistics | SciPy |
+## 📖 Table of Contents
+
+1. [Python Basics](#python-basics)  
+2. [Pandas](#pandas)  
+3. [NumPy](#numpy)  
+4. [Matplotlib](#matplotlib)  
+5. [Seaborn](#seaborn)  
+6. [SciPy](#scipy)  
+7. [Time Series Analysis](#time-series-analysis)  
+8. [SQL Integration](#sql-integration)  
+9. [Machine Learning Basics](#machine-learning-basics)  
+10. [Automation & APIs](#automation--apis)  
+11. [Mini Projects](#mini-projects)  
+12. [Skills & Tools](#skills--tools)  
+13. [Future Additions](#future-additions)  
+14. [References](#references)  
 
 ---
-## 🧩 Future Additions
 
-- **📊 Seaborn Visualizations**  
-  Advanced statistical plotting for deeper insights.
+## 🐍 Python Basics
 
-- **🧹 Real-World Data Cleaning Projects**  
-  Practice on messy datasets involving missing values, duplicates, and outliers.
+**Notebook:** `python_basics/python_basics.ipynb`  
 
-- **📈 Exploratory Data Analysis (EDA)**  
-  Mini projects analyzing datasets to uncover trends and distributions.
+Covers:  
+- Introduction to Python  
+- Variables & Data Types  
+- Operators & Expressions  
+- Conditionals & Loops  
+- Functions & Scope  
+- Data Structures: Lists, Tuples, Sets, Dictionaries  
+- File Handling  
+- Exceptions & Error Handling  
+- Modules & Packages  
+- Object-Oriented Programming (OOP)  
+- Comprehensions & Generators  
+- Lambda, Map, Filter, Reduce  
+- Regular Expressions  
+- Datetime & OS Module  
 
-- **🌐 API Data Extraction & Automation**  
-  Working with APIs (e.g., OpenWeather, CoinGecko) for automated data pipelines.
+> All topics are **combined in a single notebook** for sequential learning. Exercises and examples are included for practice.
 
-- **📅 Time Series Analysis**  
-  Hands-on exploration of trends, seasonality, and forecasting models.
+---
 
-- **📘 SQL + Python Integration**  
-  Querying data using SQLite or MySQL directly from Python.
+## 🐼 Pandas
 
-- **🤖 Intro to Machine Learning**  
-  Implementing linear regression, clustering, and decision trees using Scikit-learn.
+Covers **data manipulation and analysis**:  
+- Series and DataFrames  
+- Data cleaning and preprocessing  
+- GroupBy, merge, join operations  
+- Time series data handling  
+- Case studies  
 
-- **📂 Data Export & Reporting**  
-  Creating automated Excel and PDF reports from data analysis.
+**Example notebooks:**  
+- `01_series_dataframe.ipynb`  
+- `02_data_cleaning.ipynb`  
+- `05_case_study_sales_analysis.ipynb`  
 
-- **🧮 Statistical Analysis with SciPy**  
-  Performing hypothesis testing, probability distributions, and ANOVA.
+---
 
-- **🧰 Mini Projects Repository**  
-  A collection of short data-focused problems and solutions.
+## 🔢 NumPy
 
+Covers **numerical computing and arrays**:  
+- Array creation, indexing, slicing  
+- Broadcasting  
+- Linear algebra operations  
+- Random module usage  
+
+**Example notebooks:**  
+- `01_array_basics.ipynb`  
+- `04_linear_algebra.ipynb`  
+
+---
+
+## 📊 Matplotlib
+
+Covers **data visualization**:  
+- Line, bar, pie, scatter, histogram plots  
+- Subplots and figure customization  
+- Styling, labels, and annotations  
+
+**Example notebooks:**  
+- `01_line_plots.ipynb`  
+- `05_styling_and_annotations.ipynb`  
+
+---
+
+## 🌈 Seaborn
+
+Advanced visualizations:  
+- Distribution plots  
+- Categorical plots  
+- Pairplots and heatmaps  
+- Custom themes  
+
+---
+
+## ⚛️ SciPy
+
+Scientific computing concepts:  
+- Statistics  
+- Optimization  
+- Signal processing  
+- Hypothesis testing  
+
+---
+
+## ⏱ Time Series Analysis
+
+- Time series basics  
+- Stationarity and differencing  
+- SARIMA modeling  
+- Forecast evaluation  
+
+---
+
+## 🗄 SQL Integration
+
+- SQLite connection and operations  
+- SQL queries within Python  
+- Integration with Pandas  
+
+---
+
+## 🤖 Machine Learning Basics
+
+- Linear regression  
+- Logistic regression  
+- Clustering  
+- Decision trees  
+
+---
+
+## ⚙️ Automation & APIs
+
+- Automation scripts  
+- Web scraping basics  
+- REST API data extraction  
+- Sample project: weather dashboard  
+
+---
+
+## 📂 Mini Projects
+
+- Data cleaning projects  
+- Visualization projects  
+- Transaction analysis  
+- Exploratory data analysis on real-world datasets  
+
+---
+
+## 🛠️ Skills & Tools
+
+- **Python:** Basics to advanced programming  
+- **Pandas & NumPy:** Data manipulation & numerical computing  
+- **Matplotlib & Seaborn:** Data visualization  
+- **SciPy:** Scientific computing  
+- **SQL:** Database integration  
+- **Machine Learning:** Linear models, clustering, decision trees  
+- **Automation & APIs:** Web scraping, API data extraction  
+- **Google Colab:** Cloud-based execution for easy sharing  
+
+---
+
+## 📌 Future Additions
+
+The `py-learn` repository is designed to grow over time. Planned future enhancements include:
+
+### 1. Advanced Python Topics
+- Decorators and context managers  
+- Iterators and generators in depth  
+- Advanced object-oriented programming patterns  
+- Type hinting and annotations  
+
+### 2. Deep Learning
+- TensorFlow and PyTorch fundamentals  
+- Neural network architectures (CNN, RNN, Transformers)  
+- Model evaluation and deployment  
+
+### 3. Natural Language Processing (NLP)
+- Text preprocessing (tokenization, stemming, lemmatization)  
+- Word embeddings (Word2Vec, GloVe)  
+- Sentiment analysis and text classification  
+
+### 4. Advanced Machine Learning
+- Ensemble methods (Random Forest, XGBoost)  
+- Hyperparameter tuning and model selection  
+- Model interpretability techniques  
+
+### 5. Interactive Visualizations
+- Plotly and Dash dashboards  
+- Interactive charts for data exploration  
+- Web-based visual storytelling  
+
+### 6. Mini Projects & Real-World Datasets
+- E-commerce transaction analysis  
+- Stock price prediction  
+- Web scraping and API data aggregation projects  
+
+### 7. Repository Enhancements
+- Better documentation and examples  
+- Resource folders for PDFs, PPTs, and datasets  
+- Notebook templates for consistent formatting  
+
+> These additions are intended to make `py-learn` a **comprehensive learning repository**, combining theory, practice, and real-world applications.
