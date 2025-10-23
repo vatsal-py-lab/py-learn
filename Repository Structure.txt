@@ -1,0 +1,74 @@
+py-learn/
+│
+├── 📘 README.md
+├── 📄 requirements.txt                # optional: libraries used in some notebooks
+│
+├── 🐍 python_basics/                  # core Python concepts
+│   ├── 01_variables.ipynb
+│   ├── 02_data_types.ipynb
+│   ├── 03_loops_and_conditions.ipynb
+│   ├── 04_functions.ipynb
+│   └── 05_oop_concepts.ipynb
+│
+├── 📊 pandas/                         # data manipulation & wrangling
+│   ├── 01_series_dataframe.ipynb
+│   ├── 02_data_cleaning.ipynb
+│   ├── 03_groupby_merge.ipynb
+│   ├── 04_time_series.ipynb
+│   └── 05_case_study_sales_analysis.ipynb
+│
+├── 🧮 numpy/                          # numerical computing
+│   ├── 01_array_basics.ipynb
+│   ├── 02_indexing_slicing.ipynb
+│   ├── 03_broadcasting.ipynb
+│   ├── 04_linear_algebra.ipynb
+│   └── 05_random_module.ipynb
+│
+├── 📉 matplotlib/                     # data visualization
+│   ├── 01_line_plots.ipynb
+│   ├── 02_bar_pie_charts.ipynb
+│   ├── 03_scatter_hist.ipynb
+│   ├── 04_subplots_customization.ipynb
+│   └── 05_styling_and_annotations.ipynb
+│
+├── 📈 seaborn/                        # advanced visualizations
+│   ├── 01_introduction.ipynb
+│   ├── 02_categorical_plots.ipynb
+│   ├── 03_distribution_plots.ipynb
+│   ├── 04_pairplot_heatmap.ipynb
+│   └── 05_custom_themes.ipynb
+│
+├── 🧠 scipy/                          # scientific & statistical analysis
+│   ├── 01_statistics.ipynb
+│   ├── 02_optimization.ipynb
+│   ├── 03_signal_processing.ipynb
+│   └── 04_hypothesis_testing.ipynb
+│
+├── 📅 time_series/                    # trend, seasonality & forecasting
+│   ├── 01_time_series_basics.ipynb
+│   ├── 02_stationarity_and_differencing.ipynb
+│   ├── 03_sarima_model.ipynb
+│   └── 04_forecast_evaluation.ipynb
+│
+├── 🗄️ sql_integration/                # working with databases
+│   ├── 01_sqlite_connection.ipynb
+│   ├── 02_sql_queries_in_python.ipynb
+│   └── 03_pandas_sql_workflow.ipynb
+│
+├── 🤖 machine_learning_basics/        # introduction to ML (future)
+│   ├── 01_linear_regression.ipynb
+│   ├── 02_logistic_regression.ipynb
+│   ├── 03_clustering.ipynb
+│   └── 04_decision_trees.ipynb
+│
+├── ⚙️ automation_and_apis/            # automation, APIs & projects
+│   ├── 01_automation_scripts.ipynb
+│   ├── 02_web_scraping_basics.ipynb
+│   ├── 03_rest_api_data_extraction.ipynb
+│   └── 04_project_api_weather_dashboard.ipynb
+│
+└── 🧩 mini_projects/                  # applied learning projects
+    ├── project_01_data_cleaning.ipynb
+    ├── project_02_visual_analysis.ipynb
+    ├── project_03_transaction_analysis.ipynb
+    └── project_04_eda_real_world_dataset.ipynb
