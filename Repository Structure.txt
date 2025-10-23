@@ -1,7 +1,7 @@
 py-learn/
 │
 ├── 📘 README.md
-├── 📄 requirements.txt                # optional: libraries used in some notebooks
+├── 📄 Repository Structure.txt        
 │
 ├── 🐍 python_basics/                  # core Python concepts
 │   ├── 01_variables.ipynb
@@ -72,3 +72,4 @@ py-learn/
     ├── project_02_visual_analysis.ipynb
     ├── project_03_transaction_analysis.ipynb
     └── project_04_eda_real_world_dataset.ipynb
+
