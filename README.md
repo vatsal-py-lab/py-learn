@@ -28,5 +28,37 @@ This repository serves as a structured space to:
 | Programming | Python |
 | Data Analysis | Pandas, NumPy |
 | Statistics | SciPy |
-| Visualization | Matplotlib |
-| Data Handling | CSV, JSON, Excel |
+
+---
+## 🧩 Future Additions
+
+- **📊 Seaborn Visualizations**  
+  Advanced statistical plotting for deeper insights.
+
+- **🧹 Real-World Data Cleaning Projects**  
+  Practice on messy datasets involving missing values, duplicates, and outliers.
+
+- **📈 Exploratory Data Analysis (EDA)**  
+  Mini projects analyzing datasets to uncover trends and distributions.
+
+- **🌐 API Data Extraction & Automation**  
+  Working with APIs (e.g., OpenWeather, CoinGecko) for automated data pipelines.
+
+- **📅 Time Series Analysis**  
+  Hands-on exploration of trends, seasonality, and forecasting models.
+
+- **📘 SQL + Python Integration**  
+  Querying data using SQLite or MySQL directly from Python.
+
+- **🤖 Intro to Machine Learning**  
+  Implementing linear regression, clustering, and decision trees using Scikit-learn.
+
+- **📂 Data Export & Reporting**  
+  Creating automated Excel and PDF reports from data analysis.
+
+- **🧮 Statistical Analysis with SciPy**  
+  Performing hypothesis testing, probability distributions, and ANOVA.
+
+- **🧰 Mini Projects Repository**  
+  A collection of short data-focused problems and solutions.
+
