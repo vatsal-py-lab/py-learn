@@ -2,8 +2,6 @@
 
 **py-learn** is a structured personal repository for learning Python and its ecosystem. It is designed to **track progress, practice concepts, and document skills** from Python basics to applied projects, data analysis, visualization, and introductory machine learning.
 
----
-
 ## 🧭 Purpose
 
 - Serve as a **personal learning journal** for Python.  
@@ -11,26 +9,22 @@
 - Demonstrate **practical Python skills** for portfolios or project work.  
 - Enable experimentation with **data analysis, visualization, automation, and mini-projects**.  
 
----
-
 ## 📖 Table of Contents
 
-1. [Python Basics](#python-basics)  
-2. [Pandas](#pandas)  
-3. [NumPy](#numpy)  
-4. [Matplotlib](#matplotlib)  
-5. [Seaborn](#seaborn)  
-6. [SciPy](#scipy)  
-7. [Time Series Analysis](#time-series-analysis)  
-8. [SQL Integration](#sql-integration)  
-9. [Machine Learning Basics](#machine-learning-basics)  
-10. [Automation & APIs](#automation--apis)  
-11. [Mini Projects](#mini-projects)  
-12. [Skills & Tools](#skills--tools)  
-13. [Future Additions](#future-additions)  
-14. [References](#references)  
-
----
+1. Python Basics
+2. Pandas
+3. NumPy
+4. Matplotlib
+5. Seaborn
+6. SciPy
+7. Time Series Analysis
+8. SQL Integration
+9. Machine Learning Basics
+10. Automation & APIs
+11. Mini Projects
+12. Skills & Tools
+13. Future Additions
+14. References
 
 ## 🐍 Python Basics
 
@@ -54,8 +48,6 @@ Covers:
 
 > All topics are **combined in a single notebook** for sequential learning. Exercises and examples are included for practice.
 
----
-
 ## 🐼 Pandas
 
 Covers **data manipulation and analysis**:  
@@ -70,8 +62,6 @@ Covers **data manipulation and analysis**:
 - `02_data_cleaning.ipynb`  
 - `05_case_study_sales_analysis.ipynb`  
 
----
-
 ## 🔢 NumPy
 
 Covers **numerical computing and arrays**:  
@@ -84,8 +74,6 @@ Covers **numerical computing and arrays**:
 - `01_array_basics.ipynb`  
 - `04_linear_algebra.ipynb`  
 
----
-
 ## 📊 Matplotlib
 
 Covers **data visualization**:  
@@ -97,8 +85,6 @@ Covers **data visualization**:
 - `01_line_plots.ipynb`  
 - `05_styling_and_annotations.ipynb`  
 
----
-
 ## 🌈 Seaborn
 
 Advanced visualizations:  
@@ -106,8 +92,6 @@ Advanced visualizations:
 - Categorical plots  
 - Pairplots and heatmaps  
 - Custom themes  
-
----
 
 ## ⚛️ SciPy
 
@@ -117,8 +101,6 @@ Scientific computing concepts:
 - Signal processing  
 - Hypothesis testing  
 
----
-
 ## ⏱ Time Series Analysis
 
 - Time series basics  
@@ -126,15 +108,11 @@ Scientific computing concepts:
 - SARIMA modeling  
 - Forecast evaluation  
 
----
-
 ## 🗄 SQL Integration
 
 - SQLite connection and operations  
 - SQL queries within Python  
 - Integration with Pandas  
-
----
 
 ## 🤖 Machine Learning Basics
 
@@ -143,8 +121,6 @@ Scientific computing concepts:
 - Clustering  
 - Decision trees  
 
----
-
 ## ⚙️ Automation & APIs
 
 - Automation scripts  
@@ -152,16 +128,12 @@ Scientific computing concepts:
 - REST API data extraction  
 - Sample project: weather dashboard  
 
----
-
 ## 📂 Mini Projects
 
 - Data cleaning projects  
 - Visualization projects  
 - Transaction analysis  
 - Exploratory data analysis on real-world datasets  
-
----
 
 ## 🛠️ Skills & Tools
 
@@ -173,8 +145,6 @@ Scientific computing concepts:
 - **Machine Learning:** Linear models, clustering, decision trees  
 - **Automation & APIs:** Web scraping, API data extraction  
 - **Google Colab:** Cloud-based execution for easy sharing  
-
----
 
 ## 📌 Future Additions
 
